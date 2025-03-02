@@ -1,4 +1,3 @@
 # To-Do-App
-This is To Do App using web development my My minor project.
-I used JavaScript and Html to do app user i added add option and delete option this is my minor project
-With priority level
+This is my minor project "To Do App" using web development.
+I used JavaScript and Html to do app, user can add task and delete option With priority level
